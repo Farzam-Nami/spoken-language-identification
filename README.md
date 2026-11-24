@@ -80,6 +80,4 @@ The local project archive includes the feature table, so classification and clus
 - Clustering is exploratory, with unequal cluster counts and a nonstandard silhouette-like score. No t-SNE implementation is included.
 - Original saved outputs retain local path strings, file identifiers and dependency warnings. The dataset source and redistribution permissions must be verified before sharing source audio or derived tables.
 
-## Author
 
-Farzam Nami
