@@ -56,6 +56,6 @@ For supervised models, the confusion matrix has true classes as rows and predict
 
 For clustering, purity is
 
-$$\operatorname{purity} = \frac{1}{N}\sum_k \max_c |C_k\cap L_c|.$$
+$$purity = \frac{1}{N}\sum_k \max_c |C_k\cap L_c|.$$
 
 The notebook's custom silhouette-like measure uses squared Euclidean distances, includes the point itself in the within-cluster average, and assigns zero contribution to singleton clusters. It therefore differs from the standard Euclidean silhouette (which excludes self-distance). The metric is retained exactly as implemented. Purity can favor larger k; comparing k=7 and k=4 is exploratory rather than a matched-k test.
