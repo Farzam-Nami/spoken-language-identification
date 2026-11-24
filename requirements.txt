@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+librosa
+soundfile
+mutagen
+tqdm
+ipython
+jupyter

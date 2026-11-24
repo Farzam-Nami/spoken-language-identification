@@ -1,0 +1,12 @@
+method,cluster,German,Italian,Korean,Spanish
+K-Means,0,32,1,86,0
+K-Means,1,0,82,0,0
+K-Means,2,84,0,56,84
+K-Means,3,0,0,20,0
+K-Means,4,41,0,0,0
+K-Means,5,0,0,0,83
+K-Means,6,1,76,8,1
+Hierarchical,0,158,145,169,159
+Hierarchical,1,0,7,0,0
+Hierarchical,2,0,7,0,9
+Hierarchical,3,0,0,1,0
